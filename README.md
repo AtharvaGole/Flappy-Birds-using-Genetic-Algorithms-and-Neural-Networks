@@ -9,7 +9,7 @@ It is a typical flappy birds made in pygame in which the computer plays the game
   For computer:-
     Run FlappyBirds.py
     
-<h3>Controls:-<h3><br/>
+<h3>Controls:-</h3><br/>
   Press the up arrow to go up.
   Else you will go down automatically by gravity.
   
