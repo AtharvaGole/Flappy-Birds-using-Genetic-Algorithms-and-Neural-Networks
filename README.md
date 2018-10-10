@@ -2,7 +2,7 @@
 
 It is a typical flappy birds made in pygame in which the computer plays the game and masters it by using genetic algorithm.
 
-How to Play:-<br/>
+<h2>How to Play:-</h2><br/>
   Download this repository
   For human:-
     Run FlappyBirdsHuman.py
