@@ -2,18 +2,18 @@
 
 It is a typical flappy birds made in pygame in which the computer plays the game and masters it by using genetic algorithm.
 
-How to Play:-
+How to Play:-<br/>
   Download this repository
   For human:-
     Run FlappyBirdsHuman.py
   For computer:-
     Run FlappyBirds.py
     
-Controls:-
+Controls:-<br/>
   Press the up arrow to go up.
   Else you will go down automatically by gravity.
   
- Rules:-
+ Rules:-<br/>
   Don't collide with the green pipes.
   
   
