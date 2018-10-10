@@ -1,6 +1,6 @@
 # Flappy-Birds-using-Genetic-Algorithms-and-Neural-Networks
 
-It is a typical flappy birds made in pygame in which the computer plays the game and masters it by using genetic algorithm.
+It's a typical flappy birds made in pygame in which the computer plays the game and masters it by using genetic algorithm.
 
 <h3>How to Play:-</h3>
   Download this repository<br/>
