@@ -13,6 +13,12 @@ It's a typical flappy birds made in pygame in which the computer plays the game 
   
  <h3>Rules:-</h3>
   Don't collide with the green pipes.
+ 
+ <h3>Dependencies:-</h3>
+  pygame<br/>
+  numpy<br/>
+ 
+ 
   
   
 
