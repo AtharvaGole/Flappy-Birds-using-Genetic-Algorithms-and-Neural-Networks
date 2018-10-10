@@ -4,10 +4,8 @@ It is a typical flappy birds made in pygame in which the computer plays the game
 
 <h3>How to Play:-</h3>
   Download this repository
-  <pre>For human:-<br/>
-    <pre>Run FlappyBirdsHuman.py</pre><br/>
-  For computer:-<br/>
-    <pre>Run FlappyBirds.py<br/></pre></pre>
+  For human:- Run FlappyBirdsHuman.py<br/>
+  For computer:- Run FlappyBirds.py<br/>
     
 <h3>Controls:-</h3>
   Press the up arrow to go up.<br/>
